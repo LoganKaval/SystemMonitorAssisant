@@ -1,0 +1,8 @@
+Do these commands in terminal.
+chmod +x /the/dirctory/to/file/SM-AppSearcher.sh
+Then do this command.
+cd /the/dirctory/to/file
+Then type this to run it.
+./SM-AppSearcher.sh
+
+NOTE: It is not installed. Once you delete the file the program is deleted.
